@@ -21,7 +21,9 @@
 
 
 <h2>Languages and Tools:</h2>
+<div align='center'> 
 <img src='https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png?raw=true' alt='angular' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/react.png?raw=true' alt='react' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png?raw=true' alt='javascript' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true' alt='typescript' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/php.png?raw=true' alt='php' ><img src='https://github.com/hussainweb/hussainweb/raw/main/icons/mysql.png' alt='mysql' ><img src='https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png' width='32px' alt='nodejs' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/git.png?raw=true' width='32px' alt='nodejs' ><img src='https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true' width='32px' alt='nodejs' >
+</div> 
 
 
 
