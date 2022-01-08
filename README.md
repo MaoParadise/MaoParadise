@@ -22,7 +22,16 @@
 
 <h2>Languages and Tools:</h2>
 <div align='center'> 
-<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png?raw=true' alt='angular' ><img style='margin-right : 10px'src='https://github.com/hussainweb/hussainweb/blob/main/icons/react.png?raw=true' alt='react' ><img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png?raw=true' alt='javascript' ><img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true' alt='typescript' ><img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/php.png?raw=true' alt='php' ><br><img style='margin-right : 10px'src='https://github.com/hussainweb/hussainweb/raw/main/icons/mysql.png' alt='mysql' ><img style='margin-right : 10px' src='https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png' width='32px' alt='nodejs' ><img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/git.png?raw=true' width='32px' alt='nodejs' ><img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true' width='32px' alt='nodejs' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png?raw=true' alt='angular' >
+<img style='margin-right : 10px'src='https://github.com/hussainweb/hussainweb/blob/main/icons/react.png?raw=true' alt='react' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png?raw=true' alt='javascript' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true' alt='typescript' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/php.png?raw=true' alt='php' >
+<br>
+<img style='margin-right : 10px'src='https://github.com/hussainweb/hussainweb/raw/main/icons/mysql.png' alt='mysql' >
+<img style='margin-right : 10px' src='https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png' width='32px' alt='nodejs' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/git.png?raw=true' width='32px' alt='nodejs' >
+<img style='margin-right : 10px' src='https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true' width='32px' alt='nodejs' >
 </div> 
 
 
